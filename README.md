@@ -25,9 +25,11 @@ Für Leute mit wenig bis keinen Vorkenntnissen in Programmierung, könnte man/fr
 
 1. Einen fertigen Kurs von mir mit StarlogoTNG, einer Block-Programmiersprache, um Agenten in einer 3D-Welt zu steuern, der aus einem Satz an konkreten Arbeitsaufträgen besteht.
 
+    ![bsp starlogtng](image/starlogotng_bsp.jpg "Screenshot von StarLogoTNG")
 
 2. Einen Online-Kurs (zumindest z.T. auf Englisch, evtl. gänzlich) mit Applab, einer Block-Programmiersprache, um Apps zu programmieren, der aus einem Satz an konkreten Arbeitsaufträgen besteht. 
 
+    ![bsp applab](image/applab_bsp.jpg "Screenshot von AppLab")
 
  Siehe hier ein Video:
 
@@ -40,6 +42,7 @@ Für Leute mit wenig bis keinen Vorkenntnissen in Programmierung, könnte man/fr
 
 3. Einen fertigen Kurs von mir über Objektorientierten Programmierung (OOP) mit Stride, einer Frame-basierte Programmiersprache, die eine Zwischenstufe zwischen textbasiertem Java-Programmierung und Blockprogrammierung ist, 
 
+    ![bsp stride](image/stride_bsp.png "Screenshot von Stride")
 
 
  http://www.greenfoot.org/frames/
@@ -47,20 +50,22 @@ Für Leute mit wenig bis keinen Vorkenntnissen in Programmierung, könnte man/fr
 
  in Greenfoot, einer Lehrumgebung für Java, in der man „Akteure“ (Objekte) in einer 2D-grafischen Welt steuert, der aus einem Satz an konkreten Arbeitsaufträgen besteht.
 
+ ![bsp greenfoot](image/greenfoot_bsp.png "Screenshot von Greenfoot")
 
 
 
 4. Selbstgesteuertes Lernen von Objektorientierten Programmierung (OOP) mit Greenfoot, einer Lehrumgebung für Java, einer textbasierten Programmiersprache, in der man „Akteure“ (Objekte) in einer 2D-grafischen Welt steuert.
 
-
+ ![bsp greenfoot](image/greenfoot-java_bsp.png "Screenshot von Greenfoot java")
+    
 
 
 5. Einen fertigen Online-Kurs „The Beauty and Joy of Computing”, der erfolgreich sowohl an Universitäten als auch “High Schools” eingesetzt wird, und “Snap!”, eine Blockbasierte Programmiersprache verwendet.
 
+ ![bsp snap](image/snap_bsp.jpg "Screenshot von Snap")
+
+
  http://bjc.edc.org/
-
-
-
 
 
 
@@ -70,15 +75,17 @@ Wege für Leute, die sich mehr mit „Physical Computing“, d.h. die Steuerung 
 
 1. Sich mit dem Arduino auseinandersetzen. Hierzu selbstständig Tutorials und Projekte aussuchen
 
- https://www.arduino.cc/
- https://www.youtube.com/watch?v=eJg3yuAAawA
- https://www.youtube.com/watch?v=_E8jC0D4-as
+ ![bsp arduino](image/arduino_bsp_2.jpg "Screenshot von Arduino")
 
+ https://www.arduino.cc/  
 
+ Folgende Links sind youtube Videos, die zeigen, was man so mit einem Arduino machen könnte:
 
-
-
-
+  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/eJg3yuAAawA/0.jpg)](http://www.youtube.com/watch?v=eJg3yuAAawA)
+ 
+  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_E8jC0D4-as/0.jpg)](http://www.youtube.com/watch?v=_E8jC0D4-as)
+ 
+ 
 
 
 2. Wer schon Programmier- und evtl. Netzwerkerfahrung besitzt, könnte sich mit dem RaspberryPi auseinandersetzen. Siehe dazu die Beispiele aus dem letzten Jahr, die oben bei den Angaben zum Github stehen.
@@ -90,6 +97,9 @@ Wege für Leute, die sich mehr mit „Physical Computing“, d.h. die Steuerung 
 3. Wer sich mehr mit der Steuerung von Robotern beschäftigen möchte, und selbstständig arbeiten kann, könnte sich mit dem Finch und einem Online-Kurs dazu auseinandersetzen:
 
 
+ ![bsp finch](image/finch-diagramm.jpg "Diagram of Finch robot")
+
+ ![bsp finch](image/finch_bsp.jpg "Image of Finch in action")
 
 
 
