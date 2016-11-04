@@ -97,7 +97,7 @@ Wege für Leute, die sich mehr mit „Physical Computing“, d.h. die Steuerung 
 3. Wer sich mehr mit der Steuerung von Robotern beschäftigen möchte, und selbstständig arbeiten kann, könnte sich mit dem Finch und einem Online-Kurs dazu auseinandersetzen:
 
 
- ![bsp finch](image/finch-diagramm.jpg "Diagram of Finch robot")
+ ![bsp finch](image/finch-diagram.jpg "Diagram of Finch robot")
 
  ![bsp finch](image/finch_bsp.jpg "Image of Finch in action")
 
@@ -107,9 +107,9 @@ Wege für Leute, die sich mehr mit „Physical Computing“, d.h. die Steuerung 
 
  Dies kann sowohl blockbasiert (Snap! s.o.) als auch textbasiert mit Java erfolgen:
 
- http://finchrobot.com/software-overview
- http://finchrobot.com/teaching/snap-grades-9-12
- http://finchrobot.com/teaching/introduction-programming-finch
+ http://finchrobot.com/software-overview  
+ http://finchrobot.com/teaching/snap-grades-9-12  
+ http://finchrobot.com/teaching/introduction-programming-finch  
 
 
 
