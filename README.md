@@ -7,7 +7,7 @@ Documents and Tasks for my computer science class
 [2. Wege für Leute, die sich mehr mit „Physical Computing“ beschäftigen wollen](#2)  
 [3. Wege für Fortgeschrittene](#3)
 
-##Einführung<a name="einf"></a> 
+### Einführung<a name="einf"></a> 
 In diesem Kurs werden wir versuchen, für Euch möglichst individuelle Wege zu gehen. Grundsätzlich solltet Ihr allerdings in Paaren arbeiten, nur in Ausnahmenfällen möchte ich, dass Ihr zu dritt oder alleine arbeitet. Jedes Paar wird für sich einen Weg aussuchen, diesen begehen, und festhalten. Diese Festhaltung und den von mir wahrgenommenen Fortschritt und Engagement werden die Grundlagen für Eure Note in diesem Kurs bilden. 
 
 Festhalten werdet Ihr Euren Weg, in dem Ihr diesen auf Github dokumentiert. Hier werdet Ihr sowohl Eure Programme bzw. Euren Quelltext als auch Dokumentation hierzu (in der sehr vereinfachten, HTML-ähnlichen Sprache „Markdown“) ablegen. Ein Beispiel, wie dieses aussehen kann, findet Ihr hier in diesen musterhaften Projekten, die Schüler letztes Jahr in Informatik erschaffen haben:
@@ -20,7 +20,7 @@ Als Rahmen für Euer Projekt könnt Ihr aus einer breiten Palette an Angeboten e
 
 
 
-###<a name="1"></a>Wege für Leute mit wenig bis keinen Vorkenntnissen
+### <a name="1"></a>Wege für Leute mit wenig bis keinen Vorkenntnissen
 Für Leute mit wenig bis keinen Vorkenntnissen in Programmierung, könnte man/frau mit einen der folgenden Alternativen anfangen:
 
 1. Einen fertigen Kurs von mir mit StarlogoTNG, einer Block-Programmiersprache, um Agenten in einer 3D-Welt zu steuern, der aus einem Satz an konkreten Arbeitsaufträgen besteht.
@@ -78,7 +78,7 @@ Hier ein BJC-Projekt von Stormarn-Schülerinnen:
 https://jasminjarecki.github.io/BJC-Eine-Anleitung/
 
 
-###<a name="2"></a> Physical Computing
+### <a name="2"></a> Physical Computing
 
 Wege für Leute, die sich mehr mit „Physical Computing“, d.h. die Steuerung von physikalischen, echten Geräten, wie LEDs, Motoren, Schaltungen, oder Robotern etc., auseinandersetzen wollen, und noch selbstständiger Arbeiten wollen bzw. können, gibt es drei Möglichkeiten
 
@@ -125,5 +125,5 @@ Wege für Leute, die sich mehr mit „Physical Computing“, d.h. die Steuerung 
 
 
 
-###<a name="3"></a>Wege für Fortgeschrittene
+### <a name="3"></a>Wege für Fortgeschrittene
 Leute mit richtigen Vorkenntnissen, die auch sehr selbstständig arbeiten können, könnten Ihr eigenes Projekt in Absprache mit mir festlegen. 
