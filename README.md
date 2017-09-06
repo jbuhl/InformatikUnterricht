@@ -10,11 +10,11 @@ Documents and Tasks for my computer science class
 ###Einführung<a name="einf"></a> 
 In diesem Kurs werden wir versuchen, für Euch möglichst individuelle Wege zu gehen. Grundsätzlich solltet Ihr allerdings in Paaren arbeiten, nur in Ausnahmenfällen möchte ich, dass Ihr zu dritt oder alleine arbeitet. Jedes Paar wird für sich einen Weg aussuchen, diesen begehen, und festhalten. Diese Festhaltung und den von mir wahrgenommenen Fortschritt und Engagement werden die Grundlagen für Eure Note in diesem Kurs bilden. 
 
-Festhalten werdet Ihr Euren Weg, in dem Ihr diesen auf Github dokumentiert. Hier werdet Ihr sowohl Eure Programme bzw. Euren Quelltext als auch Dokumentation hierzu (in der sehr vereinfachten, HTML-ähnlichen Sprache „Markdown“) ablegen. Ein Beispiel, wie dieses aussehen kann, findet Ihr hier in diesem Beispiel, die Schüler letztes Jahr in Informatik erschaffen haben:
+Festhalten werdet Ihr Euren Weg, in dem Ihr diesen auf Github dokumentiert. Hier werdet Ihr sowohl Eure Programme bzw. Euren Quelltext als auch Dokumentation hierzu (in der sehr vereinfachten, HTML-ähnlichen Sprache „Markdown“) ablegen. Ein Beispiel, wie dieses aussehen kann, findet Ihr hier in diesen musterhaften Projekten, die Schüler letztes Jahr in Informatik erschaffen haben:
 
-http://stormarnschule.github.io/
+https://github.com/murielantonia/The-Beauty-and-Joy-of-Computing
 
-https://github.com/stormarnschule
+https://olemauss.github.io/LED-Matrix-Arduino/
 
 Als Rahmen für Euer Projekt könnt Ihr aus einer breiten Palette an Angeboten einen Weg aussuchen, oder Euren eigenen Weg in Absprache mit mir planen. Im Weiteren werde ich hier bestehende Angebote beschreiben.
 
@@ -39,6 +39,10 @@ Für Leute mit wenig bis keinen Vorkenntnissen in Programmierung, könnte man/fr
 
 
  https://code.org/educate/applab
+ 
+  Hier ein Projekt mit dem ähnlichen AppInventor von Stormarn-Schülerinnen:
+ 
+ https://drealina.github.io/AppInventor/
 
 3. Einen fertigen Kurs von mir über Objektorientierten Programmierung (OOP) mit Stride, einer Frame-basierte Programmiersprache, die eine Zwischenstufe zwischen textbasiertem Java-Programmierung und Blockprogrammierung ist, 
 
@@ -58,7 +62,9 @@ Für Leute mit wenig bis keinen Vorkenntnissen in Programmierung, könnte man/fr
 
  ![bsp greenfoot](image/greenfoot-java_bsp.png "Screenshot von Greenfoot java")
     
+Hier ein Greenfoot-Projekt von Stormarn-Schülern:
 
+https://m4nni.github.io/Ants/
 
 5. Einen fertigen Online-Kurs „The Beauty and Joy of Computing”, der erfolgreich sowohl an Universitäten als auch “High Schools” eingesetzt wird, und “Snap!”, eine Blockbasierte Programmiersprache verwendet.
 
@@ -67,6 +73,9 @@ Für Leute mit wenig bis keinen Vorkenntnissen in Programmierung, könnte man/fr
 
  http://bjc.edc.org/
 
+Hier ein BJC-Projekt von Stormarn-Schülerinnen:
+
+https://jasminjarecki.github.io/BJC-Eine-Anleitung/
 
 
 ###<a name="2"></a> Physical Computing
@@ -85,8 +94,11 @@ Wege für Leute, die sich mehr mit „Physical Computing“, d.h. die Steuerung 
  
   [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_E8jC0D4-as/0.jpg)](http://www.youtube.com/watch?v=_E8jC0D4-as)
  
+ Und hier zwei Arduino-Projekte von Stormarnschülern:
  
+ https://stormarnschule12.github.io/Arduino-car/
 
+ https://olemauss.github.io/LED-Matrix-Arduino/
 
 2. Wer schon Programmier- und evtl. Netzwerkerfahrung besitzt, könnte sich mit dem RaspberryPi auseinandersetzen. Siehe dazu die Beispiele aus dem letzten Jahr, die oben bei den Angaben zum Github stehen.
 
