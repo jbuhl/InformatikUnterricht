@@ -44,6 +44,7 @@ Für Leute mit wenig bis keinen Vorkenntnissen in Programmierung, könnte man/fr
  
  https://drealina.github.io/AppInventor/
 
+
 3. Einen fertigen Kurs von mir über Objektorientierten Programmierung (OOP) mit Stride, einer Frame-basierte Programmiersprache, die eine Zwischenstufe zwischen textbasiertem Java-Programmierung und Blockprogrammierung ist, 
 
     ![bsp stride](image/stride_bsp.png "Screenshot von Stride")
