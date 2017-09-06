@@ -88,17 +88,20 @@ Wege für Leute, die sich mehr mit „Physical Computing“, d.h. die Steuerung 
 
  https://www.arduino.cc/  
 
+Hier sind zwei Arduino-Projekte von Stormarnschülern:
+ 
+ https://stormarnschule12.github.io/Arduino-car/
+
+ https://olemauss.github.io/LED-Matrix-Arduino/
+ 
+ 
  Folgende Links sind youtube Videos, die zeigen, was man so mit einem Arduino machen könnte:
 
   [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/eJg3yuAAawA/0.jpg)](http://www.youtube.com/watch?v=eJg3yuAAawA)
  
   [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_E8jC0D4-as/0.jpg)](http://www.youtube.com/watch?v=_E8jC0D4-as)
  
- Und hier zwei Arduino-Projekte von Stormarnschülern:
  
- https://stormarnschule12.github.io/Arduino-car/
-
- https://olemauss.github.io/LED-Matrix-Arduino/
 
 2. Wer schon Programmier- und evtl. Netzwerkerfahrung besitzt, könnte sich mit dem RaspberryPi auseinandersetzen. Siehe dazu die Beispiele aus dem letzten Jahr, die oben bei den Angaben zum Github stehen.
 
