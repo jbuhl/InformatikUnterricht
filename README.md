@@ -30,21 +30,20 @@ Für Leute mit wenig bis keinen Vorkenntnissen in Programmierung, könnte man/fr
 2. Einen Online-Kurs (zumindest z.T. auf Englisch, evtl. gänzlich) mit Applab, einer Block-Programmiersprache, um Apps zu programmieren, der aus einem Satz an konkreten Arbeitsaufträgen besteht. 
 
     ![bsp applab](image/applab_bsp.jpg "Screenshot von AppLab")
-
+    
  Siehe hier ein Video:
-
+ 
  https://www.youtube.com/watch?v=e1St8LB4VJA
-
+ 
  https://www.youtube.com/watch?v=WZVAA3ajZxc
-
-
+ 
+ 
  https://code.org/educate/applab
  
-  Hier ein Projekt mit dem ähnlichen AppInventor von Stormarn-Schülerinnen:
+ Hier ein Projekt mit dem ähnlichen AppInventor von Stormarn-Schülerinnen:
  
  https://drealina.github.io/AppInventor/
-
-
+ 
 3. Einen fertigen Kurs von mir über Objektorientierten Programmierung (OOP) mit Stride, einer Frame-basierte Programmiersprache, die eine Zwischenstufe zwischen textbasiertem Java-Programmierung und Blockprogrammierung ist, 
 
     ![bsp stride](image/stride_bsp.png "Screenshot von Stride")
