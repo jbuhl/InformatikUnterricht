@@ -17,6 +17,7 @@ https://github.com/murielantonia/The-Beauty-and-Joy-of-Computing
 https://olemauss.github.io/LED-Matrix-Arduino/
 
 https://github.com/lakgiter/Informatik-Projekt-3
+
 https://github.com/lakgiter/Projektpraesentation-3
 
 Als Rahmen für Euer Projekt könnt Ihr aus einer breiten Palette an Angeboten einen Weg aussuchen, oder Euren eigenen Weg in Absprache mit mir planen. Im Weiteren werde ich hier bestehende Angebote beschreiben.
