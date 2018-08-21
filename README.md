@@ -16,6 +16,9 @@ https://github.com/murielantonia/The-Beauty-and-Joy-of-Computing
 
 https://olemauss.github.io/LED-Matrix-Arduino/
 
+https://github.com/lakgiter/Informatik-Projekt-3
+https://github.com/lakgiter/Projektpraesentation-3
+
 Als Rahmen für Euer Projekt könnt Ihr aus einer breiten Palette an Angeboten einen Weg aussuchen, oder Euren eigenen Weg in Absprache mit mir planen. Im Weiteren werde ich hier bestehende Angebote beschreiben.
 
 
@@ -88,11 +91,15 @@ Wege für Leute, die sich mehr mit „Physical Computing“, d.h. die Steuerung 
 
  https://www.arduino.cc/  
 
-Hier sind zwei Arduino-Projekte von Stormarnschülern:
+Hier sind drei Arduino-Projekte von Stormarnschülern:
  
  https://stormarnschule12.github.io/Arduino-car/
 
  https://olemauss.github.io/LED-Matrix-Arduino/
+ 
+ https://github.com/lakgiter/Informatik-Projekt-3
+ 
+ https://github.com/lakgiter/Projektpraesentation-3
  
  
  Folgende Links sind youtube Videos, die zeigen, was man so mit einem Arduino machen könnte:
