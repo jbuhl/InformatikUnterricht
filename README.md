@@ -22,6 +22,8 @@ https://github.com/dennis602/Projektseite-Arduino-Parkhaus/blob/master/README.md
 
 https://github.com/dennis602/Projektseite-Arduino-Teebeutelautomat/blob/master/README.md
 
+https://github.com/BohrisNaturalisRettner/Projektseite-Spektrometer
+
 https://gitlab.com/JKGER/lothader/-/wikis/Home
 
 Ihr werdet ebenfalls ein Stundenprotokoll in Form eines Blogs auf Github führen, um die Prozess und Eure Arbeit zu dokumentieren. Hier Beispiele für gut dokumentierte Stundenprotokolle ehemaliger Stormarnschüler:
@@ -29,6 +31,8 @@ Ihr werdet ebenfalls ein Stundenprotokoll in Form eines Blogs auf Github führen
 https://github.com/dennis602/Stundenprotokoll/blob/master/README.md
 
 https://github.com/dennis602/Stundenprotokoll-II/blob/master/README.md
+
+https://github.com/BohrisNaturalisRettner/Informatikprojekt-Spektrometer-Stundenprotokoll
 
 Als Rahmen für Euer Projekt könnt Ihr aus einer breiten Palette an Angeboten einen Weg aussuchen, oder Euren eigenen Weg in Absprache mit mir planen. Im Weiteren werde ich hier bestehende Angebote beschreiben.
 
