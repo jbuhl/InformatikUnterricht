@@ -16,9 +16,19 @@ https://github.com/murielantonia/The-Beauty-and-Joy-of-Computing
 
 https://olemauss.github.io/LED-Matrix-Arduino/
 
-https://github.com/lakgiter/Informatik-Projekt-3
+https://gitlab.com/JKGER/imagerecognition/-/blob/master/Dokumentation/Projektseite.md
 
-https://github.com/lakgiter/Projektpraesentation-3
+https://github.com/dennis602/Projektseite-Arduino-Parkhaus/blob/master/README.md
+
+https://github.com/dennis602/Projektseite-Arduino-Teebeutelautomat/blob/master/README.md
+
+https://gitlab.com/JKGER/lothader/-/wikis/Home
+
+Ihr werdet ebenfalls ein Stundenprotokoll in Form eines Blogs auf Github führen, um die Prozess und Eure Arbeit zu dokumentieren. Hier Beispiele für gut dokumentierte Stundenprotokolle ehemaliger Stormarnschüler:
+
+https://github.com/dennis602/Stundenprotokoll/blob/master/README.md
+
+https://github.com/dennis602/Stundenprotokoll-II/blob/master/README.md
 
 Als Rahmen für Euer Projekt könnt Ihr aus einer breiten Palette an Angeboten einen Weg aussuchen, oder Euren eigenen Weg in Absprache mit mir planen. Im Weiteren werde ich hier bestehende Angebote beschreiben.
 
