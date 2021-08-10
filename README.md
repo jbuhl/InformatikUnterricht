@@ -12,6 +12,8 @@ In diesem Kurs werden wir versuchen, für Euch möglichst individuelle Wege zu g
 
 Festhalten werdet Ihr Euren Weg, in dem Ihr diesen auf Github dokumentiert. Hier werdet Ihr sowohl Eure Programme bzw. Euren Quelltext als auch Dokumentation hierzu (in der sehr vereinfachten, HTML-ähnlichen Sprache „Markdown“) ablegen. Ein Beispiel, wie dieses aussehen kann, findet Ihr hier in diesen musterhaften Projekten, die Schüler letztes Jahr in Informatik erschaffen haben:
 
+https://github.com/LeoandTeda/Mirror-Game/blob/master/README.md
+
 https://github.com/murielantonia/The-Beauty-and-Joy-of-Computing
 
 https://olemauss.github.io/LED-Matrix-Arduino/
