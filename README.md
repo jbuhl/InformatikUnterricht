@@ -12,6 +12,8 @@ In diesem Kurs werden wir versuchen, für Euch möglichst individuelle Wege zu g
 
 Festhalten werdet Ihr Euren Weg, in dem Ihr diesen auf Github dokumentiert. Hier werdet Ihr sowohl Eure Programme bzw. Euren Quelltext als auch Dokumentation hierzu (in der sehr vereinfachten, HTML-ähnlichen Sprache „Markdown“) ablegen. Ein Beispiel, wie dieses aussehen kann, findet Ihr hier in diesen musterhaften Projekten, die Schüler letztes Jahr in Informatik erschaffen haben:
 
+<details>
+    <summary> Links zu Projektseiten ehemaliger SchülerInnen</summary>
 https://github.com/LeoandTeda/Mirror-Game/blob/master/README.md
 
 https://github.com/murielantonia/The-Beauty-and-Joy-of-Computing
@@ -27,15 +29,21 @@ https://github.com/dennis602/Projektseite-Arduino-Teebeutelautomat/blob/master/R
 https://github.com/BohrisNaturalisRettner/Projektseite-Spektrometer
 
 https://gitlab.com/JKGER/lothader/-/wikis/Home
+    
+</details>
 
 Ihr werdet ebenfalls ein Stundenprotokoll in Form eines Blogs auf Github führen, um die Prozess und Eure Arbeit zu dokumentieren. Hier Beispiele für gut dokumentierte Stundenprotokolle ehemaliger Stormarnschüler:
 
+<details>
+    <summary> Links zu Arbeitstagebüchern ehemaliger SchülerInnen</summary>
 https://github.com/dennis602/Stundenprotokoll/blob/master/README.md
 
 https://github.com/dennis602/Stundenprotokoll-II/blob/master/README.md
 
 https://github.com/BohrisNaturalisRettner/Informatikprojekt-Spektrometer-Stundenprotokoll
 
+    </details>
+    
 Als Rahmen für Euer Projekt könnt Ihr aus einer breiten Palette an Angeboten einen Weg aussuchen, oder Euren eigenen Weg in Absprache mit mir planen. Im Weiteren werde ich hier bestehende Angebote beschreiben.
 
 
@@ -110,6 +118,9 @@ Wege für Leute, die sich mehr mit „Physical Computing“, d.h. die Steuerung 
 
 Hier sind drei Arduino-Projekte von Stormarnschülern:
  
+ <details>
+    <summary> Arduino-Projekte ehemaliger SchülerInnen</summary>
+    
  https://stormarnschule12.github.io/Arduino-car/
 
  https://olemauss.github.io/LED-Matrix-Arduino/
@@ -118,7 +129,8 @@ Hier sind drei Arduino-Projekte von Stormarnschülern:
  
  https://github.com/lakgiter/Projektpraesentation-3
  
- 
+ </details>
+    
  Folgende Links sind youtube Videos, die zeigen, was man so mit einem Arduino machen könnte:
 
   [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/eJg3yuAAawA/0.jpg)](http://www.youtube.com/watch?v=eJg3yuAAawA)
