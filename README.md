@@ -42,7 +42,7 @@ https://github.com/dennis602/Stundenprotokoll-II/blob/master/README.md
 
 https://github.com/BohrisNaturalisRettner/Informatikprojekt-Spektrometer-Stundenprotokoll
 
-    </details>
+</details>
     
 Als Rahmen für Euer Projekt könnt Ihr aus einer breiten Palette an Angeboten einen Weg aussuchen, oder Euren eigenen Weg in Absprache mit mir planen. Im Weiteren werde ich hier bestehende Angebote beschreiben.
 
