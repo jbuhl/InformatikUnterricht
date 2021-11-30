@@ -108,7 +108,7 @@ https://jasminjarecki.github.io/BJC-Eine-Anleitung/
 
 ### <a name="2"></a> Physical Computing
 
-Wege für Leute, die sich mehr mit „Physical Computing“, d.h. die Steuerung von physikalischen, echten Geräten, wie LEDs, Motoren, Schaltungen, oder Robotern etc., auseinandersetzen wollen, und noch selbstständiger Arbeiten wollen bzw. können, gibt es drei Möglichkeiten
+Wege für Leute, die sich mehr mit „Physical Computing“, d.h. die Steuerung von physikalischen, echten Geräten, wie LEDs, Motoren, Schaltungen, oder Robotern etc., auseinandersetzen und noch selbstständiger Arbeiten wollen bzw. können, gibt es drei Möglichkeiten:
 
 1. Sich mit dem Arduino auseinandersetzen. Hierzu selbstständig Tutorials und Projekte aussuchen
 
