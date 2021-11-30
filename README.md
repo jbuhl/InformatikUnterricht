@@ -131,12 +131,12 @@ Hier sind drei Arduino-Projekte von Stormarnschülern:
  
  </details>
     
-<! Folgende Links sind youtube Videos, die zeigen, was man so mit einem Arduino machen könnte:
+<!-- Folgende Links sind youtube Videos, die zeigen, was man so mit einem Arduino machen könnte:
 
   (http://img.youtube.com/vi/eJg3yuAAawA/0.jpg)](http://www.youtube.com/watch?v=eJg3yuAAawA)
  
   (http://img.youtube.com/vi/_E8jC0D4-as/0.jpg)](http://www.youtube.com/watch?v=_E8jC0D4-as)
- >
+ -->
  
 
 2. Wer schon Programmier- und evtl. Netzwerkerfahrung besitzt, könnte sich mit dem RaspberryPi auseinandersetzen. Siehe dazu die Beispiele aus dem letzten Jahr, die oben bei den Angaben zum Github stehen.
