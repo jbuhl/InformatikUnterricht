@@ -133,9 +133,9 @@ Hier sind drei Arduino-Projekte von Stormarnschülern:
     
  Folgende Links sind youtube Videos, die zeigen, was man so mit einem Arduino machen könnte:
 
-  ![youtube video 1](http://img.youtube.com/vi/eJg3yuAAawA/0.jpg)](http://www.youtube.com/watch?v=eJg3yuAAawA)
+  (http://img.youtube.com/vi/eJg3yuAAawA/0.jpg)](http://www.youtube.com/watch?v=eJg3yuAAawA)
  
-  ![youtube video 2](http://img.youtube.com/vi/_E8jC0D4-as/0.jpg)](http://www.youtube.com/watch?v=_E8jC0D4-as)
+  (http://img.youtube.com/vi/_E8jC0D4-as/0.jpg)](http://www.youtube.com/watch?v=_E8jC0D4-as)
  
  
 
