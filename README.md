@@ -127,10 +127,12 @@ Wege für Leute, die sich mehr mit „Physical Computing“, d.h. die Steuerung 
 
  https://www.arduino.cc/  
 
-Hier sind drei Arduino-Projekte von Stormarnschülern:
+Hier sind einige Arduino-Projekte von Stormarnschülern:
  
  <details>
     <summary> Arduino-Projekte ehemaliger SchülerInnen</summary>
+ 
+ https://github.com/TheMoonlandingV2/TheWeather/blob/main/Projektseite%20Wetterstation.md
     
  https://stormarnschule12.github.io/Arduino-car/
 
