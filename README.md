@@ -15,9 +15,9 @@ Festhalten werdet Ihr Euren Weg, in dem Ihr diesen auf Github dokumentiert. Hier
 <details>
     <summary> Links zu Projektseiten ehemaliger SchülerInnen</summary>
     
-    https://github.com/TheMoonlandingV2/TheWeather/blob/main/Projektseite%20Wetterstation.md
+https://github.com/TheMoonlandingV2/TheWeather/blob/main/Projektseite%20Wetterstation.md
     
-   https://github.com/LeoandTeda/Mirror-Game/blob/master/README.md
+https://github.com/LeoandTeda/Mirror-Game/blob/master/README.md
 
 https://github.com/murielantonia/The-Beauty-and-Joy-of-Computing
 
@@ -52,7 +52,7 @@ https://github.com/BohrisNaturalisRettner/Informatikprojekt-Spektrometer-Stunden
 
 Eine Übersicht, wie man mit "Markdown" die Texte auf Github formatieren und gestalten kann, findet Ihr hier:
 
- https://github.com/TheMoonlandingV2/TheWeather/blob/main/Stundenprotokoll%20Wetterstation.md
+ https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
  
     
 Als Rahmen für Euer Projekt könnt Ihr aus einer breiten Palette an Angeboten einen Weg aussuchen, oder Euren eigenen Weg in Absprache mit mir planen. Im Weiteren werde ich hier bestehende Angebote beschreiben.
