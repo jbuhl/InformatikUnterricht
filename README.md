@@ -40,6 +40,7 @@ Ihr werdet ebenfalls ein Stundenprotokoll in Form eines Blogs auf Github führen
 <details>
     <summary> Links zu Arbeitstagebüchern ehemaliger SchülerInnen</summary>
     
+    
 https://github.com/TheMoonlandingV2/TheWeather/blob/main/Stundenprotokoll%20Wetterstation.md
     
 https://github.com/dennis602/Stundenprotokoll/blob/master/README.md
