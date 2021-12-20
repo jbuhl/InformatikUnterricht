@@ -17,6 +17,8 @@ Festhalten werdet Ihr Euren Weg, in dem Ihr diesen auf Github dokumentiert. Hier
 
 <details>
     <summary> Links zu Projektseiten ehemaliger SchülerInnen</summary>
+ 
+https://github.com/simonrettmann/Projektseite
     
 https://github.com/TheMoonlandingV2/TheWeather/blob/main/Projektseite%20Wetterstation.md
     
@@ -42,7 +44,8 @@ Ihr werdet ebenfalls ein Stundenprotokoll in Form eines Blogs auf Github führen
 
 <details>
     <summary> Links zu Arbeitstagebüchern ehemaliger SchülerInnen</summary>
-    
+
+https://github.com/simonrettmann/Stundenprotokolle
     
 https://github.com/TheMoonlandingV2/TheWeather/blob/main/Stundenprotokoll%20Wetterstation.md
     
