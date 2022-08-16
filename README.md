@@ -19,6 +19,10 @@ Festhalten werdet Ihr Euren Weg, in dem Ihr diesen auf Github dokumentiert. Hier
     <summary> Links zu Projektseiten ehemaliger SchülerInnen</summary>
  
 https://github.com/simonrettmann/Projektseite
+
+https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Projektseite.md
+
+https://github.com/xxxGernchenxxx/rob-the-bot
     
 https://github.com/TheMoonlandingV2/TheWeather/blob/main/Projektseite%20Wetterstation.md
     
@@ -46,6 +50,10 @@ Ihr werdet ebenfalls ein Stundenprotokoll in Form eines Blogs auf Github führen
     <summary> Links zu Arbeitstagebüchern ehemaliger SchülerInnen</summary>
 
 https://github.com/simonrettmann/Stundenprotokolle
+
+https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Protokollseite.md
+
+https://github.com/xxxGernchenxxx/rob-the-bot/blob/main/Projekttagebuch.md
     
 https://github.com/TheMoonlandingV2/TheWeather/blob/main/Stundenprotokoll%20Wetterstation.md
     
