@@ -46,7 +46,7 @@ https://gitlab.com/JKGER/lothader/-/wikis/Home
     
 </details>
 
-Ihr werdet ebenfalls ein Stundenprotokoll in Form eines Blogs auf Github führen, um die Prozess und Eure Arbeit zu dokumentieren. Hier Beispiele für gut dokumentierte Stundenprotokolle ehemaliger Stormarnschüler:
+Ihr werdet ebenfalls ein Stundenprotokoll in Form eines Blogs auf Github führen, um den Prozess und Eure Arbeit zu dokumentieren. Hier Beispiele für gut dokumentierte Stundenprotokolle ehemaliger Stormarnschüler:
 
 <details>
     <summary> Links zu Arbeitstagebüchern ehemaliger SchülerInnen</summary>
@@ -198,4 +198,4 @@ Folgende Links sind youtube Videos, die zeigen, was man so mit einem Arduino mac
 
 
 ### <a name="3"></a>Wege für Fortgeschrittene
-Leute mit richtigen Vorkenntnissen, die auch sehr selbstständig arbeiten können, könnten Ihr eigenes Projekt in Absprache mit mir festlegen. 
+Leute mit richtigen Vorkenntnissen, die auch sehr selbstständig arbeiten können, können Ihr eigenes Projekt in Absprache mit mir festlegen. 
