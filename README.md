@@ -77,7 +77,7 @@ Als Rahmen für Euer Projekt könnt Ihr aus einer breiten Palette an Angeboten e
 
 
 ### <a name="1"></a>Wege für Leute mit wenig bis keinen Vorkenntnissen
-Für Leute mit wenig bis keinen Vorkenntnissen in Programmierung, könnte man/frau mit einen der folgenden Alternativen anfangen:
+Für Leute mit wenig bis keinen Vorkenntnissen in Programmierung, könnte man/frau mit einer der folgenden Alternativen anfangen:
 
 1. Einen fertigen Kurs von mir mit StarlogoTNG, einer Block-Programmiersprache, um Agenten in einer 3D-Welt zu steuern, der aus einem Satz an konkreten Arbeitsaufträgen besteht.
 
