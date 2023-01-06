@@ -20,9 +20,11 @@ Festhalten werdet Ihr Euren Weg, in dem Ihr diesen auf Github dokumentiert. Hier
  
 https://github.com/simonrettmann/Projektseite
  
- https://github.com/algerr/Survival-of-the-fittest
+https://github.com/algerr/Survival-of-the-fittest
  
- https://github.com/LandingTheMoon/Chatbot-mit-Neural-Network
+https://github.com/LandingTheMoon/Chatbot-mit-Neural-Network
+ 
+https://github.com/LoMaTiInformatik/Smarthome_Ventilator
 
 https://github.com/ThorgeHamprecht/Informatik-Projekt-Nr.-1/blob/main/2D%20Puzzle%20Game.md
 
