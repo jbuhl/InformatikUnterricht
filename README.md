@@ -19,6 +19,10 @@ Festhalten werdet Ihr Euren Weg, in dem Ihr diesen auf Github dokumentiert. Hier
     <summary> Links zu Projektseiten ehemaliger SchülerInnen</summary>
  
 https://github.com/simonrettmann/Projektseite
+ 
+ https://github.com/algerr/Survival-of-the-fittest
+ 
+ https://github.com/LandingTheMoon/Chatbot-mit-Neural-Network
 
 https://github.com/ThorgeHamprecht/Informatik-Projekt-Nr.-1/blob/main/2D%20Puzzle%20Game.md
 
@@ -54,6 +58,8 @@ Ihr werdet ebenfalls ein Stundenprotokoll in Form eines Blogs auf Github führen
     <summary> Links zu Arbeitstagebüchern ehemaliger SchülerInnen</summary>
 
 https://github.com/simonrettmann/Stundenprotokolle
+ 
+https://github.com/algerr/Stundenblog-1
 
 https://github.com/ThorgeHamprecht/Informatik-Projekt-Nr.-1
 
