@@ -25,6 +25,8 @@ https://github.com/algerr/Survival-of-the-fittest
 https://github.com/LandingTheMoon/Chatbot-mit-Neural-Network
  
 https://github.com/LoMaTiInformatik/Smarthome_Ventilator
+ 
+https://github.com/NTCR7/ProPlant/blob/main/Projektseite.md
 
 https://github.com/ThorgeHamprecht/Informatik-Projekt-Nr.-1/blob/main/2D%20Puzzle%20Game.md
 
@@ -62,6 +64,8 @@ Ihr werdet ebenfalls ein Stundenprotokoll in Form eines Blogs auf Github führen
 https://github.com/simonrettmann/Stundenprotokolle
  
 https://github.com/algerr/Stundenblog-1
+ 
+https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md
 
 https://github.com/ThorgeHamprecht/Informatik-Projekt-Nr.-1
 
