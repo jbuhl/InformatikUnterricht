@@ -180,7 +180,7 @@ Folgende Links sind youtube Videos, die zeigen, was man so mit einem Arduino mac
 
  https://github.com/stormarnschule
 
-3. Wer sich mehr mit der Steuerung von Robotern beschäftigen möchte, und selbstständig arbeiten kann, könnte sich mit dem Finch und einem Online-Kurs dazu auseinandersetzen:
+<!--- 3. Wer sich mehr mit der Steuerung von Robotern beschäftigen möchte, und selbstständig arbeiten kann, könnte sich mit dem Finch und einem Online-Kurs dazu auseinandersetzen:
 
 
  ![bsp finch](image/finch-diagram.jpg "Diagram of Finch robot")
@@ -196,6 +196,7 @@ Folgende Links sind youtube Videos, die zeigen, was man so mit einem Arduino mac
  http://finchrobot.com/software-overview  
  http://finchrobot.com/teaching/snap-grades-9-12  
  http://finchrobot.com/teaching/introduction-programming-finch  
+--->
 
 
 
